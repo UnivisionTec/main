@@ -2,5 +2,5 @@ Name:
 DOB:
 ADD:
 PH.NO:
-Expected ctc
-Last drawn Salary
+Expected ctc:
+Last drawn Salary:
